@@ -1,0 +1,27 @@
+.page {
+  text-align: center;
+}
+
+.header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header label {
+  display: block;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.header input {
+  display: block;
+  margin-top: 8px;
+  font-size: 16px;
+  padding: 8px;
+}
