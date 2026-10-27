@@ -19,9 +19,9 @@
   "author": "Build Circle Ltd",
   "license": "MIT",
   "dependencies": {
-    "next": "16.3.5",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.9.1",
@@ -31,7 +31,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.3.5",
+    "eslint-config-next": "16.4.3",
     "jest": "^30.3.0",
     "jest-environment-jsdom": "^30.3.0",
     "typescript": "^5"
